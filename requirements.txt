@@ -1,0 +1,12 @@
+fastapi
+
+aiologger[aiofiles]
+pip-chill
+uvicorn
+gunicorn
+langchain-openai
+langchain_community
+langchain_core
+python-dotenv
+langgraph
+faiss-cpu
